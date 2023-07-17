@@ -31,3 +31,16 @@
 To install Git on your local computer, you need to [visit this link](https://git-scm.com/downloads).
 
 > It's easy to install Git on Mac/Linux than Windows 😒
+
+<br/>
+1. Go to a Directory that you need to clone your Repository
+
+> Ex: `D:\MyProjects`
+
+<br/><br/>
+2. Open `Git bash` if you are a *Windows* user or Open `Terminal` if you are a *Mac/Linux* user in that directory location.
+
+
+
+
+
