@@ -24,3 +24,10 @@
 
 ![Screenshot 2023-07-17 193017](https://github.com/WasathTheekshana/introduction-to-github/assets/91784445/1674baf3-9d40-47b5-a646-b7274069202e)
 <br/><br/>
+
+
+## Install Git on Your Local Machine
+
+To install Git on your local computer, you need to [visit this link](https://git-scm.com/downloads).
+
+> It's easy to install Git on Mac/Linux than Windows 😒
