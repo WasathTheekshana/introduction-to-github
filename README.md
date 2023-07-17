@@ -40,7 +40,18 @@ To install Git on your local computer, you need to [visit this link](https://git
 <br/><br/>
 2. Open `Git bash` if you are a *Windows* user or Open `Terminal` if you are a *Mac/Linux* user in that directory location.
 
+<br/>
+3. Type this command on it
+
+```bash
+git clone <Your-Repository-Url>
+```
+
+You can find *Repository URL* from the top of the repository
+
+![image](https://github.com/WasathTheekshana/introduction-to-github/assets/91784445/7f9bbae8-1947-4f66-9f60-ca7fb5ce0347)
 
 
+> If you get any error while cloning the repo, please read this [Stack Overflow Forum](https://stackoverflow.com/questions/68775869/message-support-for-password-authentication-was-removed-please-use-a-personal)
 
 
