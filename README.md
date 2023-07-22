@@ -150,5 +150,3 @@ This command is used to list the version history for the current branch.
 git log
 
 ```
-
-
